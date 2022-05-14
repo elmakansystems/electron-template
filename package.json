@@ -1,0 +1,21 @@
+{
+  "name": "quran-kareem-healthcare-center",
+  "version": "1.0.0",
+  "description": "healthcare accountant software",
+  "main": "src/app/app.js",
+  "scripts": {
+    "watch": "nodemon --exec electron ."
+  },
+  "keywords": [
+    "healthcare",
+    "elmakansystems"
+  ],
+  "author": "elmakansystems",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^18.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
